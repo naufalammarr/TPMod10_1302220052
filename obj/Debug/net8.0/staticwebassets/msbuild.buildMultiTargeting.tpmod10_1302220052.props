@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\tpmod10_1302220052.props" />
+</Project>
